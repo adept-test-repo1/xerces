@@ -1,0 +1,475 @@
+{
+  "id" : "xercesImpl",
+  "variants" : [ "36289f9952a7bbadda4e4c43fbd20e315fdd0b49644b55fb0f88a0e096f0ce19", "bce080e64f781726260b230651f98c7f9635657a291ad2709162b0a30c9a7a2d", "1c721a7198f6f7b29dbe9ce0244ab130a052d2bb0ff594e0d1c5c59525899da7", "a21273e98ee5dff448098c547360531aca6ccf67e44430ce6b8b60dbff27b032", "8265c5cd912666dc85d001865a27da976b6986825506ed81d51b947daeb6e679", "f0ef3a87d92af57fe3ad2d0b9b9389f6532f2fa61e0a012826574fcf2827837b", "a49abc83e1b2677b47fb2c7a30f012998a2d1813500cc97a95aeeba78a97e7e7", "42867944fdd4dc8f0cbe8c444adfa07c1f52a34d15207aa96596353220a83a2b", "882b196f695d523f7e6629ad4dc8bcfd056d8bbf816f324456404238d4b7d4b1", "3cb20cde65dc7b69d12793ad8fba4c6d3b9657c0fd45117c552e95f9ceff1186", "7bda5d269a75719af0408c0ead04a66a5d4ee448eeb722c232530f50de7a1dee" ],
+  "configurations" : [ {
+    "id" : "test",
+    "repositories" : [ {
+      "id" : "xml-apis/config/compile",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/default",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/runtime",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/optional",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/master",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/sources",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/javadoc",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/test",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/provided",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/system",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    } ]
+  }, {
+    "id" : "provided",
+    "repositories" : [ {
+      "id" : "xml-apis/config/compile",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/default",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/runtime",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/optional",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/master",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/sources",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/javadoc",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/test",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/provided",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/system",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    } ]
+  }, {
+    "id" : "system",
+    "repositories" : [ {
+      "id" : "xml-apis/config/compile",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/default",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/runtime",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/optional",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/master",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/sources",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/javadoc",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/test",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/provided",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/system",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    } ]
+  }, {
+    "id" : "master",
+    "repositories" : [ {
+      "id" : "xml-apis/config/compile",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/default",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/runtime",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/optional",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/master",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/sources",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/javadoc",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/test",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/provided",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/system",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    } ]
+  }, {
+    "id" : "optional",
+    "repositories" : [ {
+      "id" : "xml-apis/config/compile",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/default",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/runtime",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/optional",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/master",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/sources",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/javadoc",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/test",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/provided",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/system",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    } ]
+  }, {
+    "id" : "compile",
+    "repositories" : [ {
+      "id" : "xml-apis/config/compile",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/default",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/runtime",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/optional",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/master",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/sources",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/javadoc",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/test",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/provided",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/system",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    } ]
+  }, {
+    "id" : "default",
+    "repositories" : [ {
+      "id" : "xml-apis/config/compile",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/default",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/runtime",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/optional",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/master",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/sources",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/javadoc",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/test",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/provided",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/system",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    } ]
+  }, {
+    "id" : "sources",
+    "repositories" : [ {
+      "id" : "xml-apis/config/compile",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/default",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/runtime",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/optional",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/master",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/sources",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/javadoc",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/test",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/provided",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/system",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    } ]
+  }, {
+    "id" : "javadoc",
+    "repositories" : [ {
+      "id" : "xml-apis/config/compile",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/default",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/runtime",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/optional",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/master",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/sources",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/javadoc",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/test",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/provided",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/system",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    } ]
+  }, {
+    "id" : "runtime",
+    "repositories" : [ {
+      "id" : "xml-apis/config/compile",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/default",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/runtime",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/optional",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/master",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/sources",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/javadoc",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/test",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/provided",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    }, {
+      "id" : "xml-apis/config/system",
+      "repository" : "xml-apis",
+      "commit" : "7be2b3801402acb18ff5efe7edcfe9f1914f12a7"
+    } ]
+  } ]
+}
